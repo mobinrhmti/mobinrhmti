@@ -11,7 +11,7 @@ I'm building my skills in Python, exploring machine learning concepts, and apply
 - Data-driven Decision Making
 
 ### Projects
-- Student Grade Prediction — exploring regression models and evaluating their performance.
+- [Student Grade Prediction](https://github.com/mobinrhmti/student-grade-prediction) — Exploring regression models and evaluating their performance.
 
 ### Currently Learning
 - Hands-On Machine Learning
