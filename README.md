@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mobin 👋
 
-<!--
-**mobinrhmti/mobinrhmti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering student interested in Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+I'm building my skills in Python, exploring machine learning concepts, and applying data-driven approaches to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Machine Learning & Data Science
+- Python and Data Analysis
+- Operations Research and Optimization
+- Data-driven Decision Making
+
+### Projects
+- Student Grade Prediction — exploring regression models and evaluating their performance.
+
+### Currently Learning
+- Hands-On Machine Learning
+- Statistical foundations of Machine Learning
+
